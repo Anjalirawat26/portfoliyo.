@@ -1,0 +1,68 @@
+body{
+    font-family: 'Vidaloka', serif;
+}
+
+/*Navigation Starts*/
+.banner{
+    width:100%;
+    background-color:rgb(57, 64, 102);
+}
+#my-navigation{
+    padding:40px;
+    color:#fff;
+    background:none;
+    border:none;
+}
+.navbar-header{
+    font-size: 30px;
+    font-weight:bolder !important;
+    
+}
+#mynavbar{
+    font-size: 20px;
+    font-weight: 
+}
+/*team start*/
+.team{
+    width:100%;
+    background-color: rgb(35, 170, 163);
+    color:#fff;
+    padding:110px 0;
+    letter-spacing: 4px;
+   
+}
+.team img{
+    border-radius: 35%;
+}
+.team h1{
+    font-size:60px;
+    font-weight:100;
+}
+.team .glyphicon{
+    font-size:30px;
+}
+/*PORTFOLIYO START*/
+.portfoliyo{
+    text-align: center;
+    font-size:3 0px;
+    background-color: rgb(255, 205, 196);
+}
+.portfoliyo H1{
+    font-size:40px;
+    color:rgb(218, 122, 122);
+}
+.portfoliyo p{
+    font-size:28px;
+    color:rgb(25, 50, 54);
+}
+.social span{
+    color:dodgerblue;
+    font-size:25px;
+    padding:10px;
+}
+.socialmedia{
+    background-color: teal;
+    font-size:30px;
+    padding:50px;
+    color:#fff;
+}
